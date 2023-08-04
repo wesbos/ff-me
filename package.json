@@ -1,0 +1,19 @@
+{
+  "name": "ffmpeg-delete-me",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node test.js"
+  },
+  "keywords": [],
+  "author": "Wes Bos (https://wesbos.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "@ffmpeg.wasm/core-mt": "0.13.2",
+    "@ffmpeg.wasm/core-st": "0.13.2",
+    "@ffmpeg.wasm/main": "0.13.0",
+    "systeminformation": "^5.18.11"
+  },
+  "type": "module"
+}
